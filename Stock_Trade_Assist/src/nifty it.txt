@@ -1,0 +1,1 @@
+{"Coforge Ltd.": "COFORGE.NS", "HCL Technologies Ltd.": "HCLTECH.NS", "Infosys Ltd.": "INFY.NS", "L&T Technology Services Ltd.": "LTTS.NS", "Larsen & Toubro Infotech Ltd.": "LTI.NS", "MphasiS Ltd.": "MPHASIS.NS", "Persistent Systems Ltd.": "PERSISTENT.NS", "Tata Consultancy Services Ltd.": "TCS.NS", "Tech Mahindra Ltd.": "TECHM.NS", "Wipro Ltd.": "WIPRO.NS"}
